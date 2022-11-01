@@ -1,0 +1,72 @@
+:root{
+    --darkTan:#DDBEA9;
+    --lightTan: #FFE8D6;
+    --lightGreen: #B7B7A4;
+    --green: #A5A58D;
+    --darkGreen: #6B705C;
+
+}
+
+body{
+    background-color: var(--green);
+}
+
+header{
+    color:var(--lightTan);
+    background-color: var(--darkGreen);
+}
+
+.card{
+    color: var(--lightTan);
+    background-color: var(--darkGreen);
+    text-align: center;
+}
+.card:empty { 
+    display: none;
+}
+#bodyRow{
+    margin:50px 15px;
+}
+#searchBox{
+    background-color: var(--darkGreen);
+    color: var(--lightTan);
+    padding:50px 0px;
+    border-radius: 25px;
+    text-align: center;
+}
+.button{
+    border-radius: 5px;
+    background-color: var(--lightTan);
+    color:var(--darkGreen);
+    border: none;
+    font-size: 20px;
+    float: center;
+    clear:both;
+    margin:5px;
+}
+#response-text{
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: var(--lightTan);
+    color:var(--darkGreen);
+    width:175px;
+    border:none;
+}
+@media (min-width: 576px) {
+    
+}
+
+
+@media (min-width: 768px) { 
+    
+}
+
+
+@media (min-width: 992px) { 
+    
+}
+
+
+@media (min-width: 1200px) {
+
+}

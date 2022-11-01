@@ -9,6 +9,7 @@ When the application is refreshed the past searches are displayed below the sear
 
 There is also a clear local storage button for the convience of the user.
 
+![weather forecast](https://user-images.githubusercontent.com/70083487/199162263-63dce68c-bffd-49b5-aa71-eef8214a6cce.PNG)
 
 
 ## License
